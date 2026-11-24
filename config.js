@@ -97,7 +97,7 @@ global.resolveLidToJid = function resolveLidToJid(jid, conn = global.conn, parti
 };
 
 	
-global.gab = ['393887347002']
+global.nix = ['393887347002']
 global.owner = [
   ['393887347002', 'Owner Epclise', true],
 ]
